@@ -1,0 +1,27 @@
+.btn2{
+    background-color: #bcdee2;
+}
+.accept{
+    background-color:#bcdee2 ;
+    font-size: 20px;
+    width: 141px;
+    height: 38px;
+    border: none;
+    margin-bottom: 5px;
+}
+.accept:hover{
+    background-color:green ;
+    color: white;
+}
+.reject{
+    background-color: #bcdee2;
+    font-size: 20px;
+    width: 141px;
+    height: 38px;
+    border: none;
+    margin-top: 5px;
+}
+.reject:hover{
+    background-color:red ;
+    color: white;
+}
